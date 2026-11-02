@@ -21,7 +21,7 @@ The planned dashboard will contain:
 5. Delinquency by credit-risk segment.
 6. Interest by region.
 
-The fields and formula definitions are detailed in `METRICS_AND_DATA_DICTIONARY.md`.
+The fields and formula definitions are detailed in `DATA_DICTIONARY.md`.
 
 ## Observations from the synthetic scenario
 

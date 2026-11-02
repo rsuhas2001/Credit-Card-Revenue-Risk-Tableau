@@ -7,3 +7,7 @@ __pycache__/
 *.db
 *.hyper
 *.tmp
+
+# Local-only notes (never commit)
+private/
+PRIVATE_*.md
