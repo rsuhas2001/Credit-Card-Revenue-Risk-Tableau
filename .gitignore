@@ -1,13 +1,1 @@
-__pycache__/
-*.pyc
-.venv/
 .DS_Store
-.pytest_cache/
-*.sqlite
-*.db
-*.hyper
-*.tmp
-
-# Local-only notes (never commit)
-private/
-PRIVATE_*.md

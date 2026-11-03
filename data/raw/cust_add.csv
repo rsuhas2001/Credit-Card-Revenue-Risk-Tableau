@@ -1,0 +1,195 @@
+Client_Num,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,State_cd,Zipcode,Car_Owner,House_Owner,Personal_loan,contact,Customer_Job,Income,Cust_Satisfaction_Score
+763307327,48,F,1,High School,Divorced,IL,62063,no,yes,no,unknown,White-collar,54131,2
+814482017,46,F,3,High School,Single,TX,79277,yes,yes,no,unknown,Self-employed,43748,2
+783252563,37,F,5,Doctorate,Married,CA,95645,yes,no,no,unknown,Blue-collar,95459,3
+756289500,53,M,1,Uneducated,Unknown,CA,92854,yes,yes,yes,cellular,Govt,44777,1
+746209687,51,M,4,Unknown,Married,NY,11644,yes,no,no,cellular,Govt,86297,5
+737923621,36,F,1,High School,Married,NY,12852,yes,yes,yes,cellular,Blue-collar,48388,4
+824695737,47,F,2,Post-Graduate,Married,TX,79236,yes,no,no,cellular,Businessman,119900,4
+723491590,38,F,4,Uneducated,Married,TX,79798,no,yes,no,cellular,White-collar,63693,5
+800748591,54,M,3,Unknown,Married,NC,27080,yes,yes,yes,unknown,Businessman,143122,3
+828287816,38,M,3,High School,Unknown,FL,34194,no,no,no,cellular,Blue-collar,26351,3
+729349878,46,M,3,College,Married,TX,75633,yes,yes,no,cellular,White-collar,31525,4
+801075615,51,F,2,Graduate,Single,TX,78992,yes,yes,no,cellular,Blue-collar,28082,3
+802850570,49,M,3,High School,Married,NY,10788,no,no,no,unknown,Govt,54760,3
+806514906,46,M,3,Unknown,Unknown,OH,43415,no,yes,no,cellular,Govt,40970,1
+770568431,46,M,2,Graduate,Single,CA,94190,no,no,no,unknown,Blue-collar,47073,4
+777870243,44,F,3,Graduate,Unknown,NY,14379,no,no,yes,unknown,White-collar,52008,1
+761120036,69,M,0,Graduate,Married,TX,79002,no,no,yes,cellular,Retirees,28271,3
+749477889,41,F,0,Uneducated,Married,CA,93059,no,no,no,unknown,Blue-collar,29743,3
+714824439,57,F,4,Unknown,Married,NY,10201,yes,no,yes,unknown,White-collar,69042,4
+818774830,32,F,4,High School,Married,NY,13400,no,no,no,unknown,Govt,45326,3
+829775335,37,M,3,Uneducated,Married,NJ,07764,yes,no,yes,cellular,Self-employed,35717,4
+794258586,35,M,3,College,Single,TX,76232,yes,yes,no,cellular,White-collar,76177,3
+783659550,66,M,2,Graduate,Married,OH,43504,yes,yes,no,cellular,Retirees,37411,4
+813961511,62,F,3,High School,Married,CA,94366,no,no,yes,cellular,Retirees,65858,4
+751792143,46,M,1,College,Single,AZ,86031,yes,yes,no,cellular,White-collar,77398,3
+727266992,42,F,3,College,Single,CA,95831,no,no,no,cellular,Self-employed,54700,4
+761610110,49,M,2,Graduate,Single,CA,93670,no,yes,no,cellular,Businessman,69153,2
+801298003,52,M,3,Graduate,Married,NY,10016,yes,yes,no,cellular,Self-employed,37781,3
+733772119,38,F,2,High School,Single,TX,75203,yes,yes,no,cellular,Businessman,45611,2
+805747378,48,M,3,College,Single,TX,75530,yes,no,no,unknown,White-collar,89610,4
+755909102,39,F,4,Graduate,Married,CA,91283,no,yes,no,cellular,Govt,45740,3
+736556936,28,F,2,Graduate,Married,NY,14251,no,yes,no,unknown,Self-employed,93376,4
+715695541,42,M,0,College,Single,NY,11142,no,no,no,cellular,Blue-collar,47175,3
+764148327,57,M,4,Uneducated,Married,FL,34699,no,yes,no,unknown,Blue-collar,28580,3
+757293695,56,M,2,College,Single,NY,11256,no,yes,no,cellular,White-collar,59037,4
+779479534,35,F,2,Graduate,Married,CA,91925,yes,yes,no,cellular,White-collar,76292,4
+805346991,35,F,2,High School,Divorced,NY,10304,yes,no,no,cellular,Self-employed,46765,1
+829240468,49,F,3,Graduate,Married,CA,94530,yes,no,yes,unknown,Blue-collar,72908,3
+710797639,43,M,4,High School,Unknown,NY,13455,no,yes,no,unknown,Govt,205481,3
+763808817,56,F,1,High School,Single,TX,79519,no,yes,no,cellular,Blue-collar,29677,2
+795245328,47,F,3,Post-Graduate,Single,FL,34165,no,yes,no,cellular,Govt,52722,1
+772780761,40,F,2,Unknown,Divorced,FL,34095,no,yes,no,cellular,Businessman,180870,4
+806272642,45,M,4,High School,Married,IL,62342,no,yes,no,cellular,Govt,36194,4
+807028366,47,M,5,Graduate,Single,TX,79923,yes,yes,no,unknown,White-collar,80083,4
+806967845,44,M,3,Uneducated,Unknown,WA,98549,no,no,yes,cellular,Retirees,43902,3
+762016011,53,M,3,Graduate,Married,TX,79028,yes,no,no,cellular,White-collar,167917,4
+724094324,56,F,1,Doctorate,Married,NY,13354,no,yes,no,cellular,White-collar,133896,3
+757021796,49,F,3,Uneducated,Unknown,FL,33127,yes,no,no,unknown,Businessman,107193,2
+779692458,51,M,3,Graduate,Single,TX,78785,yes,yes,no,cellular,Govt,75646,5
+790173889,35,M,2,High School,Single,IL,62950,yes,no,no,cellular,Blue-collar,17164,4
+818419533,58,F,4,Graduate,Single,GA,31265,yes,yes,no,unknown,Blue-collar,55412,4
+790218917,40,M,2,High School,Married,NY,10127,yes,yes,no,cellular,Govt,89335,4
+803887517,50,M,4,Unknown,Married,NJ,07862,yes,yes,yes,unknown,Self-employed,45703,3
+766204403,50,M,0,Unknown,Divorced,FL,32436,yes,yes,yes,cellular,White-collar,116767,5
+798831086,29,M,1,Graduate,Married,CA,91432,yes,yes,yes,unknown,White-collar,98126,2
+716257670,54,M,3,Doctorate,Married,NC,27832,yes,yes,no,cellular,Self-employed,59777,4
+721752366,48,M,3,Graduate,Married,NY,11403,no,no,no,cellular,Blue-collar,30981,1
+728026002,37,F,2,Graduate,Single,CA,92824,no,yes,no,cellular,White-collar,71826,4
+719590871,54,M,3,College,Single,TX,79210,yes,no,no,cellular,Businessman,84266,4
+776174644,47,M,2,Graduate,Married,NY,10253,yes,yes,yes,unknown,White-collar,69922,2
+829118470,68,F,2,High School,Married,NY,11684,yes,yes,no,unknown,Retirees,35636,4
+711887793,51,F,5,High School,Married,FL,33671,no,no,yes,unknown,White-collar,74801,3
+788638885,54,M,2,Post-Graduate,Unknown,NY,12739,no,yes,no,cellular,White-collar,82981,5
+810771697,58,M,2,High School,Married,NY,10382,yes,no,no,cellular,Self-employed,97706,3
+796920709,28,F,1,College,Married,CA,90671,no,no,no,cellular,Businessman,68475,4
+815109840,37,M,2,Unknown,Married,GA,31922,yes,yes,no,cellular,White-collar,92225,2
+740839431,47,M,2,Unknown,Single,NY,13660,no,no,yes,cellular,Blue-collar,37350,4
+764559680,45,F,2,College,Single,NY,10014,no,yes,yes,cellular,Businessman,83703,5
+758051745,43,M,3,Unknown,Single,CA,95676,yes,yes,yes,cellular,White-collar,83552,5
+744703920,53,M,2,Unknown,Married,TX,76159,yes,yes,no,unknown,Businessman,125507,1
+742077187,53,F,0,College,Single,WA,98789,yes,no,no,cellular,Blue-collar,28764,2
+805005391,46,F,1,Graduate,Single,TX,75483,yes,yes,yes,cellular,Govt,91916,5
+775756015,55,M,3,Unknown,Married,CA,95969,no,yes,no,cellular,Self-employed,63470,5
+729981723,38,F,4,Graduate,Divorced,CA,90474,yes,no,no,unknown,White-collar,48119,4
+756877461,55,F,1,High School,Married,TX,79562,no,no,no,unknown,Blue-collar,37864,3
+732135644,40,F,3,Graduate,Single,NY,11560,yes,yes,no,unknown,White-collar,156626,2
+708111870,59,F,3,Graduate,Single,NY,12054,yes,yes,no,cellular,Businessman,90428,3
+788489419,35,F,2,College,Married,NY,12778,yes,yes,no,cellular,Blue-collar,79925,4
+721196284,60,M,1,Graduate,Single,NY,10777,no,yes,yes,cellular,Self-employed,71440,3
+793723318,52,F,4,Unknown,Divorced,NY,11737,yes,yes,no,cellular,Govt,45699,3
+725333083,43,M,3,Unknown,Married,TX,76918,yes,yes,no,unknown,White-collar,114659,1
+777791825,53,M,3,Unknown,Married,NY,14805,yes,no,no,unknown,White-collar,71323,2
+719538892,57,M,3,Unknown,Married,TX,77938,no,no,no,cellular,Blue-collar,61936,5
+796149113,48,M,2,College,Married,CA,92421,yes,yes,no,unknown,Blue-collar,29572,2
+769669964,46,M,3,Doctorate,Single,NY,11077,no,yes,yes,cellular,White-collar,80241,4
+711727378,50,M,4,High School,Single,TX,77834,yes,no,no,cellular,Blue-collar,35367,2
+758407839,36,M,3,Graduate,Married,CA,90245,yes,no,no,cellular,White-collar,105240,4
+809331882,43,M,5,Graduate,Married,NC,27075,yes,yes,no,unknown,Self-employed,89707,5
+735846460,57,F,2,High School,Married,PA,18124,yes,yes,no,unknown,Businessman,115199,5
+766480675,41,F,4,Graduate,Married,TX,79863,no,no,no,unknown,Blue-collar,59341,5
+764784987,49,M,1,Graduate,Single,NC,27394,yes,no,no,cellular,Self-employed,36349,3
+737762184,38,F,0,Unknown,Married,TX,79201,no,no,no,unknown,Businessman,121350,4
+821398024,39,F,2,Graduate,Married,NY,13788,no,no,yes,cellular,Govt,39339,4
+726471731,47,F,5,Graduate,Married,CA,90229,yes,yes,yes,cellular,Self-employed,43465,3
+717497810,38,F,2,Graduate,Single,TX,79820,yes,no,no,cellular,Retirees,42759,3
+811785817,36,F,2,College,Married,FL,34909,yes,yes,no,cellular,Self-employed,59220,3
+727215070,43,F,3,Uneducated,Married,CA,91859,yes,no,no,cellular,White-collar,61085,4
+810136271,56,M,3,Post-Graduate,Single,TX,76132,yes,yes,yes,cellular,Blue-collar,82275,2
+722494390,34,M,1,College,Married,NY,10649,no,no,no,cellular,Blue-collar,55279,3
+765868888,43,F,4,Uneducated,Married,CA,95837,yes,yes,yes,cellular,Blue-collar,34264,3
+806045959,43,M,2,College,Married,CA,94636,yes,yes,no,cellular,White-collar,55026,2
+776023544,48,M,1,High School,Married,NY,11861,yes,no,yes,cellular,White-collar,83626,1
+729267571,34,M,3,Post-Graduate,Single,CA,95577,yes,no,no,unknown,White-collar,124307,2
+719395626,55,M,2,College,Married,TX,76966,no,no,no,cellular,Blue-collar,33029,1
+829307789,66,F,5,Uneducated,Married,TX,75731,yes,no,no,unknown,Retirees,16718,1
+791033073,49,F,4,College,Single,TX,75950,no,yes,no,cellular,Self-employed,73310,4
+712714589,48,M,3,Unknown,Single,TX,79390,no,yes,yes,cellular,Self-employed,47767,5
+720882024,41,M,2,Uneducated,Single,CA,91909,no,no,no,unknown,White-collar,59577,4
+753506545,42,F,1,Graduate,Single,NY,10560,yes,no,no,cellular,Businessman,260000,3
+825364002,49,F,2,Graduate,Married,TX,77176,yes,yes,no,unknown,Govt,97155,4
+733805483,52,F,5,Unknown,Married,TX,78076,yes,no,no,unknown,Businessman,115142,1
+792682264,46,M,0,College,Married,NY,14714,yes,yes,no,cellular,White-collar,107778,2
+718518415,58,M,3,Graduate,Married,FL,32593,yes,no,no,cellular,Blue-collar,33988,2
+822727874,55,F,1,Graduate,Unknown,CA,91617,yes,yes,yes,cellular,Businessman,159970,3
+756196483,45,M,1,Graduate,Single,NY,14271,no,no,no,cellular,Businessman,73611,3
+721505507,39,F,1,Unknown,Single,NY,14214,no,yes,yes,unknown,Govt,81299,1
+734195838,54,M,1,Unknown,Single,NY,14494,yes,yes,no,cellular,Blue-collar,30941,3
+773773724,57,F,2,Graduate,Married,TX,77850,yes,no,no,unknown,Govt,43868,5
+784893114,55,M,4,Graduate,Married,CA,92782,no,yes,yes,cellular,Blue-collar,27309,3
+778447175,56,F,3,College,Married,PA,15185,yes,no,yes,cellular,Self-employed,37670,2
+767523530,41,M,3,High School,Married,NY,12180,yes,no,no,cellular,Self-employed,29767,3
+736453296,42,M,2,Graduate,Married,CA,93253,yes,no,no,cellular,Govt,76797,1
+816519760,28,F,3,High School,Married,CA,95787,no,yes,yes,cellular,Blue-collar,31205,4
+762818688,40,M,2,Post-Graduate,Married,CA,96028,no,no,yes,unknown,Self-employed,55488,3
+827572290,43,M,2,High School,Divorced,CA,95759,no,no,yes,unknown,Govt,46055,1
+821563845,41,F,3,Unknown,Married,NJ,07185,yes,no,yes,cellular,Self-employed,57260,3
+761100681,51,M,1,Uneducated,Single,FL,34769,yes,yes,no,unknown,Businessman,73098,4
+748238160,38,F,0,Graduate,Unknown,GA,30543,no,no,no,unknown,Govt,107271,5
+794111443,54,M,2,High School,Married,CA,90529,yes,yes,yes,cellular,Businessman,78830,2
+762149636,53,F,2,High School,Single,GA,30220,yes,no,no,cellular,Govt,85571,2
+750822749,56,F,0,High School,Single,GA,31725,no,no,yes,cellular,Govt,83346,2
+811650297,59,M,3,High School,Married,GA,30564,no,no,no,cellular,Businessman,113627,2
+799233514,41,M,1,Uneducated,Married,TX,76127,yes,no,yes,cellular,White-collar,76424,4
+804165315,45,F,3,Doctorate,Married,OH,45563,no,yes,no,cellular,Govt,65077,4
+738623317,45,F,0,Uneducated,Single,TX,78967,no,no,no,cellular,Govt,68625,3
+740560998,51,M,4,Unknown,Single,CA,94178,yes,yes,no,cellular,Self-employed,45519,4
+769870431,49,F,1,Post-Graduate,Single,NY,11825,no,yes,no,cellular,White-collar,96366,3
+738796417,45,F,1,Unknown,Married,AZ,86454,yes,yes,no,cellular,Self-employed,64226,1
+804629842,55,M,1,Uneducated,Married,CA,95637,no,yes,yes,unknown,Self-employed,32880,4
+798056361,44,M,4,Uneducated,Single,CA,95263,yes,no,no,unknown,Blue-collar,58494,2
+821430304,53,F,2,Uneducated,Single,OH,44213,no,no,no,cellular,Govt,48919,5
+791880422,51,M,3,Graduate,Married,FL,34051,yes,no,no,cellular,Self-employed,30845,3
+789584344,42,M,5,College,Married,NJ,08373,yes,yes,yes,cellular,White-collar,179213,4
+765716954,53,F,1,High School,Divorced,CA,92020,yes,no,no,cellular,White-collar,55924,3
+782834538,50,M,3,Unknown,Single,TX,77920,yes,no,yes,unknown,Govt,50417,4
+823343685,53,F,3,High School,Married,TX,75492,no,yes,yes,unknown,Businessman,116133,3
+824696675,43,M,2,Unknown,Married,IL,61780,yes,yes,yes,cellular,Self-employed,54975,3
+802294936,60,M,2,High School,Single,CA,90283,yes,no,no,cellular,Businessman,57902,4
+734541123,44,M,2,Uneducated,Divorced,IL,60939,yes,yes,yes,cellular,Self-employed,46914,2
+733542823,56,M,1,Unknown,Married,TX,76715,no,no,no,unknown,Businessman,67207,2
+731511141,52,F,4,High School,Married,NJ,07391,no,yes,no,unknown,White-collar,63752,4
+716012029,52,F,1,High School,Married,CA,95774,no,no,no,cellular,Businessman,154151,4
+721275903,50,F,0,Post-Graduate,Married,NY,10083,yes,yes,no,unknown,White-collar,88004,3
+726001426,42,M,2,Graduate,Married,NY,11917,yes,yes,yes,cellular,Blue-collar,46932,2
+716972946,36,F,3,Unknown,Married,AZ,85915,no,no,no,unknown,White-collar,35853,4
+737156195,48,F,1,Unknown,Single,CA,92364,yes,no,yes,unknown,Govt,88444,4
+725737465,39,F,4,College,Single,IL,62324,no,yes,no,cellular,Businessman,111563,4
+787640431,47,F,4,College,Divorced,MA,01250,yes,no,yes,cellular,Blue-collar,65290,3
+791545851,43,M,1,Uneducated,Married,MA,01558,no,no,no,cellular,Businessman,51728,3
+816365776,44,M,4,Unknown,Single,CA,95219,no,yes,no,cellular,Govt,61156,3
+774898146,34,F,3,Graduate,Single,NJ,07940,no,yes,no,cellular,Self-employed,54985,4
+713122753,47,F,3,High School,Married,CA,90698,yes,no,no,cellular,White-collar,77351,3
+802705209,43,F,3,High School,Married,CA,94001,yes,no,yes,cellular,Businessman,85335,5
+799596949,32,F,2,Graduate,Married,NY,12789,yes,no,no,cellular,Self-employed,59392,3
+827146850,44,F,2,Graduate,Divorced,TX,75542,no,no,yes,unknown,Govt,108063,3
+794105523,39,F,2,Graduate,Married,CA,91588,yes,no,no,cellular,Businessman,65808,4
+792192586,55,F,1,Unknown,Divorced,MA,02377,yes,yes,yes,cellular,Blue-collar,77852,2
+712089424,58,F,0,Doctorate,Married,CA,93942,yes,no,yes,unknown,Blue-collar,75357,3
+754309364,44,F,3,College,Single,NY,13477,no,no,no,unknown,Blue-collar,34375,4
+777110348,44,F,1,High School,Single,FL,32540,yes,no,no,cellular,Govt,49939,3
+738341519,69,F,2,Post-Graduate,Married,NY,12723,no,yes,no,cellular,Retirees,28244,3
+738477680,53,M,1,Graduate,Single,CA,95964,yes,no,yes,cellular,Blue-collar,35461,5
+786078803,55,F,0,College,Married,NY,13182,yes,yes,no,unknown,Govt,82173,1
+798811395,37,F,0,College,Single,GA,31325,no,no,no,unknown,Businessman,63477,5
+792904310,40,F,4,Unknown,Married,NY,14746,yes,yes,no,unknown,Businessman,127626,4
+804896152,52,F,3,High School,Married,CA,92827,no,no,no,unknown,White-collar,47952,4
+810901408,43,M,2,Graduate,Married,IL,61924,no,no,no,unknown,Govt,47691,3
+820946307,52,F,3,Uneducated,Single,TX,79180,yes,yes,yes,cellular,Blue-collar,43484,5
+827279853,31,F,3,High School,Single,MI,48899,no,yes,no,cellular,Self-employed,46162,2
+770974353,45,M,4,Uneducated,Married,NY,13556,yes,yes,no,unknown,Govt,33858,2
+731357151,42,M,1,Uneducated,Married,FL,32715,no,yes,no,cellular,Businessman,82359,4
+754948276,48,M,0,Unknown,Married,CA,94127,no,no,yes,cellular,White-collar,50755,3
+786342290,37,M,3,College,Single,TX,79723,yes,yes,no,cellular,White-collar,71019,3
+820369362,45,M,4,High School,Divorced,CA,90156,yes,no,no,cellular,Govt,32461,4
+763144181,40,M,2,Uneducated,Single,NY,13620,yes,no,no,unknown,Self-employed,84160,3
+824098301,52,M,4,College,Unknown,TX,79305,yes,yes,no,unknown,Govt,51036,4
+828229858,35,M,2,College,Divorced,TX,79381,no,no,no,unknown,Businessman,54679,5
+818738435,37,M,3,Uneducated,Married,NY,10395,yes,no,no,unknown,Blue-collar,35599,3
+794434089,35,F,1,High School,Married,TX,77338,no,yes,yes,cellular,White-collar,102264,3
+761005894,45,M,3,Graduate,Married,OH,45851,no,yes,yes,cellular,Self-employed,53877,1
+829525284,40,M,4,High School,Married,TX,77346,yes,no,no,unknown,Self-employed,98543,5
+817434177,45,M,2,High School,Married,CA,90606,no,yes,no,cellular,Blue-collar,43864,5
+735367518,44,M,3,Uneducated,Married,NY,14472,no,yes,no,cellular,Blue-collar,36582,3
+738516730,60,F,3,Graduate,Married,CA,90648,yes,no,no,unknown,Govt,29041,3
