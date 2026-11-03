@@ -2,7 +2,6 @@
 
 Weekly view of a credit card portfolio: what it earns, where the spend goes, and which customers are most likely to fall behind on payments. Built in Tableau on top of a PostgreSQL reporting view.
 
-This is the Tableau version of my [Power BI credit card dashboard](https://github.com/rsuhas2001/Credit_Card_Financial_Dashboard). Same business questions, but the data prep now lives in SQL and the metrics are Tableau calculated fields.
 
 <!-- Tableau Public link goes here -->
 
